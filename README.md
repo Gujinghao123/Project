@@ -5,7 +5,9 @@ There are 2 datasets used in these codes:
 
 The 'regression on whole dataset and different languages' codes are used to test different regression models on the whole dataset and on four different languages.
 
-The 'hyperparameter optimization' codes are used to improve model performance through hyperparameter optimization.
+The 'specific problem' codes are used to test model performance for specific problems
+
+The 'hyperparameter optimization' codes are used to improve model performance of 'specific problems' through hyperparameter optimization.
 
 The 'segmented regression' codes are used to test the performance of segmented regression on different languages.
 
